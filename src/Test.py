@@ -75,7 +75,7 @@ def test_est_premier():
     assert est_premier(5) == True
     assert est_premier(7) == True
     assert est_premier(11) == True
-    assert est_premier(4) == False
+    assert est_premier(5) == False
     assert est_premier(6) == False
     assert est_premier(9) == False
     assert est_premier(15) == False
