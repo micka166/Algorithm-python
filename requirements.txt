@@ -1,4 +1,4 @@
 redis
 pymongo
 requests
-panda 0.3.1
+panda
